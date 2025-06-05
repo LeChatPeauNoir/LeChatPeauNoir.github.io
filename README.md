@@ -1,1 +1,2 @@
-# LeChatPeauNoir.github.io
+# Carlos, Satine et moi
+## Le magazin officiel de LeChatPeauNoire
